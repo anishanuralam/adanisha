@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://ada.anisha.my.id/", // replace this with your deployed domain
+  website: "https://bio.anisha.my.id/", // replace this with your deployed domain
   author: "Anisha",
-  profile: "https://ada.anisha.my.id/",
+  profile: "https://bio.anisha.my.id/",
   desc: "Rekomendasi Produk.",
   title: "AstroPaper",
   ogImage: "astropaper-og.jpg",
